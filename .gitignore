@@ -1,0 +1,7 @@
+!config.toml
+*.pt
+*.parquet
+
+# any wandb or pycache files
+wandb/
+__pycache__/
